@@ -1,7 +1,6 @@
-## Unit 19 Homework: Cryptocurrency Wallet
+## Unit 19: Cryptocurrency Wallet
 
-![An image shows a wallet with bitcoin.](Images/19-4-challenge-image.png)
-
+### Upload two pictures: The wallet address in ganache, and the executed transaction
 ![Ganache Account Image](Images/Untitled.png)
 
 ![Ganache Transaction Screenshot](Images/tx_pic.png)
